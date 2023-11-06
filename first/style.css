@@ -7,3 +7,40 @@
   padding: 20px;
   border: 5px solid black;
 }
+.second {
+  display: flex;
+  justify-content: space-between;
+
+  margin: 5px;
+}
+
+.firstbox {
+  border: 2px solid black;
+  width: 250px;
+  height: 80px;
+  background-color: saddlebrown;
+}
+.secondbox {
+  border: 2px solid black;
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+}
+.four {
+  display: flex;
+  justify-content: space-between;
+}
+.left2 {
+  display: flex;
+  justify-content: space-between;
+}
+.mini-box1 {
+  width: 50px;
+  height: 50px;
+  background-color: yellow;
+}
+.mini-box2 {
+  width: 50px;
+  height: 50px;
+  background-color: yellowgreen;
+}
