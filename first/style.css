@@ -1,0 +1,9 @@
+.container {
+  margin: 0 auto;
+  border: 5px solid black;
+  width: 50%;
+}
+.box {
+  padding: 20px;
+  border: 5px solid black;
+}
